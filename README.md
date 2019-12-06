@@ -8,16 +8,19 @@
  
 * ## Usage:
   Run the user-recon.py code to check for usernames on vaious sites.
- ```bash
+  ```bash
+  python user-recon.py
+  ```
+  ```bash
  _   _                    ____                       
 | | | |___  ___ _ __     |  _ \ ___  ___ ___  _ __   
 | | | / __|/ _ \ '__|____| |_) / _ \/ __/ _ \| '_ \  
 | |_| \__ \  __/ | |_____|  _ <  __/ (_| (_) | | | | 
  \___/|___/\___|_|       |_| \_\___|\___\___/|_| |_| 
-
-USERNAME : +++USERNAME+++ 
-
+ 
+  USERNAME : +++USERNAME+++
   ```
+
 
 * ## Description:
   The following code accepts username as input and checks its existance on various sites with the help of 
